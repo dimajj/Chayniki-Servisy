@@ -21,10 +21,10 @@ body {
     width: 70%;
 }
 .left>img {
-    width: 80%;
-    height: 80%;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
-    
+    border-radius: 500px;
 }
 
 
